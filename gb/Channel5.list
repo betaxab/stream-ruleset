@@ -1,9 +1,11 @@
-DOMAIN-SUFFIX,channel5.com
 DOMAIN,akadash0.akamaized.net
-DOMAIN,player.akamaized.net
 DOMAIN,akadashlive-c5.akamaized.net
 DOMAIN,akadashlive-5usa.akamaized.net
 DOMAIN,akadashlive-5star.akamaized.net
 DOMAIN,akadashlive-paramount.akamaized.net
 DOMAIN,akadashlive-5select.akamaized.net
 DOMAIN,akasubs.akamaized.net
+DOMAIN,player.akamaized.net
+DOMAIN,d349g9zuie06uo.cloudfront.net
+DOMAIN-SUFFIX,channel5.com
+DOMAIN-SUFFIX,my5.tv
