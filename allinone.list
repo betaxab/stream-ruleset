@@ -10,6 +10,14 @@ DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,seachange.com
 
+DOMAIN-SUFFIX,acorn.tv
+DOMAIN,boltacorn1-a.akamaihd.net
+DOMAIN-SUFFIX,rlje-static-assets.s3.amazonaws.com
+# DOMAIN-SUFFIX,players.brightcove.net
+# DOMAIN-SUFFIX,edge.api.brightcove.com
+DOMAIN,d1gqkepxkcxgvm.cloudfront.net
+DOMAIN-SUFFIX,rlje.net
+
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
@@ -55,6 +63,13 @@ DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
+
+DOMAIN-SUFFIX,discovery.com
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,us1-prod.api2.branch.io
+DOMAIN-SUFFIX,disco-api.com
 
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
@@ -114,6 +129,10 @@ DOMAIN-SUFFIX,diceplatform.com
 DOMAIN-SUFFIX,imggaming.com
 DOMAIN-SUFFIX,pndsn.com
 DOMAIN-SUFFIX,setantasports.com
+
+DOMAIN,sonynondrmvod.akamaized.net
+DOMAIN,d2r1yp2w7bby2u.cloudfront.net
+DOMAIN-SUFFIX,sonyliv.com
 
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,heads-ak-spotify-com.akamaized.net
@@ -320,6 +339,8 @@ DOMAIN,yb.uncn.jp
 DOMAIN-SUFFIX,jcom.co.jp
 DOMAIN-SUFFIX,zaq.ne.jp
 
+DOMAIN-SUFFIX,kan-colle.com
+
 DOMAIN-SUFFIX,clubdam.com
 
 DOMAIN-SUFFIX,konosubafd.jp
@@ -357,8 +378,6 @@ DOMAIN-SUFFIX,nxtv.jp
 DOMAIN,vmdash-cenc.akamaized.net
 DOMAIN-SUFFIX,videomarket.jp
 DOMAIN,img.vm-movie.jp
-
-DOMAIN-SUFFIX,worldflipper.jp
 
 DOMAIN-SUFFIX,wowow.co.jp
 
@@ -401,14 +420,10 @@ DOMAIN-SUFFIX,mytv.vn
 
 DOMAIN-SUFFIX,tv360.vn
 
-DOMAIN-SUFFIX,discoveryplus.in
-
 DOMAIN-SUFFIX,jiocinema.com
 DOMAIN-SUFFIX,voot.com
 
 DOMAIN-SUFFIX,mxplayer.in
-
-DOMAIN-SUFFIX,sonyliv.com
 
 DOMAIN-SUFFIX,tataplay.com
 
@@ -418,6 +433,8 @@ DOMAIN,geo-id-media-001-vidio-com.akamaized.net
 
 DOMAIN-SUFFIX,mbc.net
 DOMAIN-SUFFIX,shahid.net
+
+DOMAIN-SUFFIX,megogo.net
 
 DOMAIN-SUFFIX,nlziet.nl
 
@@ -479,8 +496,6 @@ DOMAIN-SUFFIX,canalplus.com
 
 DOMAIN-SUFFIX,molotov.tv
 
-DOMAIN-SUFFIX,salto.fr
-
 DOMAIN-SUFFIX,joyn.de
 
 DOMAIN-SUFFIX,sky.de
@@ -501,29 +516,17 @@ DOMAIN-SUFFIX,videoland.com
 
 DOMAIN-SUFFIX,amediateka.ru
 
-DOMAIN-SUFFIX,megogo.net
-DOMAIN-SUFFIX,playfamily.ru
-
-DOMAIN-SUFFIX,acorn.tv
-DOMAIN-SUFFIX,boltacorn1-a.akamaihd.net
-DOMAIN-SUFFIX,rlje-static-assets.s3.amazonaws.com
-DOMAIN-SUFFIX,d1gqkepxkcxgvm.cloudfront.net
-DOMAIN-SUFFIX,rlje.net
-
-DOMAIN-SUFFIX,starplus.com
-DOMAIN-SUFFIX,starott.com
-DOMAIN-SUFFIX,star.api.edge.bamgrid.com
-DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
-DOMAIN-SUFFIX,star.content.edge.bamgrid.com
-DOMAIN-SUFFIX,star.playback.edge.bamgrid.com
-
 DOMAIN-SUFFIX,abc.com
 
 DOMAIN-SUFFIX,aetv.com
 DOMAIN-SUFFIX,aetnd.com
 DOMAIN-SUFFIX,sp-prod.net
+DOMAIN,qaservicesaetn-a.akamaihd.net
+DOMAIN,servicesaetn-a.akamaihd.net
+DOMAIN-SUFFIX,aetndigital.com
 
 DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,directv.com
 
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
@@ -546,12 +549,6 @@ DOMAIN-SUFFIX,edge.cwtv-egress.top.comcast.net
 DOMAIN-SUFFIX,thecwvideo.com
 DOMAIN-SUFFIX,www.cwseed.com
 
-DOMAIN-SUFFIX,discovery.com
-DOMAIN-SUFFIX,discoveryplus.com
-DOMAIN-SUFFIX,discoveryplus.co.uk
-DOMAIN-SUFFIX,us1-prod.api2.branch.io
-DOMAIN-SUFFIX,us1-prod-direct.disco-api.com
-
 DOMAIN-SUFFIX,disneynow.com
 
 DOMAIN,bcbolt446c5271-a.akamaihd.net
@@ -560,6 +557,7 @@ DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,epixhls.akamaized.net
 DOMAIN-SUFFIX,epixvpp-vh.akamaihd.net
 DOMAIN-SUFFIX,epix.com
+DOMAIN-SUFFIX,mgmplus.com
 
 DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN-SUFFIX,espn.co.uk
@@ -596,6 +594,7 @@ DOMAIN-SUFFIX,fubo.tv
 
 DOMAIN-SUFFIX,fxnetworks.com
 
+DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbomax.com
@@ -649,11 +648,6 @@ DOMAIN-SUFFIX,pluto.tv
 
 DOMAIN-SUFFIX,popcornflix.com
 
-DOMAIN-SUFFIX,bcboltshowtime1-a.akamaized.net
-DOMAIN-SUFFIX,sho.com
-DOMAIN-SUFFIX,showtime.com
-DOMAIN-SUFFIX,showtimeanytime.com
-
 DOMAIN-SUFFIX,shudder.com
 
 DOMAIN-SUFFIX,dishworld.com
@@ -665,9 +659,7 @@ DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,starz.com
 
 DOMAIN-SUFFIX,tlc.com
-DOMAIN,global-prod.disco-api.com
-DOMAIN,partner-logos-prod.disco-api.com
-DOMAIN,us1-prod-images.disco-api.com
+# DOMAIN-SUFFIX,disco-api.com
 
 DOMAIN-SUFFIX,tve-static-syfy.akamaized.net
 DOMAIN-SUFFIX,tve-static-telemundo.akamaized.net
@@ -768,6 +760,7 @@ DOMAIN,streamcoimg-a.akamaihd.net
 DOMAIN-KEYWORD,-stan.akamazed.net
 
 DOMAIN-SUFFIX,maoritelevision.com
+DOMAIN-SUFFIX,maoriplus.co.nz
 
 DOMAIN-SUFFIX,neontv.co.nz
 

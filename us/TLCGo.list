@@ -1,5 +1,3 @@
 DOMAIN-SUFFIX,tlc.com
-DOMAIN,global-prod.disco-api.com
-DOMAIN,partner-logos-prod.disco-api.com
-DOMAIN,us1-prod-images.disco-api.com
-DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,disco-api.com
+
