@@ -630,6 +630,12 @@ music.jp
 music-book.jp
 ```
 
+NHK Plus
+```
+nhk.jp
+nhk.or.jp
+```
+
 NicoNico
 ```
 dmc.nico
