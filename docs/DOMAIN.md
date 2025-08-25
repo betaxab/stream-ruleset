@@ -26,9 +26,23 @@ anthropic.com
 claude.ai
 ```
 
+Google Gemini & AiStudio
+```
+aistudio.google.com
+alkalimakersuite-pa.clients6.google.com
+gemini.google.com
+generativelanguage.googleapis.com
+proactivebackend-pa.googleapis.com
+```
+
 Meta AI
 ```
 meta.ai
+```
+
+Microsoft Copilot
+```
+copilot.microsoft.com
 ```
 
 ### 通用服务域名
