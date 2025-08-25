@@ -503,6 +503,12 @@ d3c7rimkq79yfu.cloudfront.net
 linetv.tw
 ```
 
+Ofiii
+```
+ntdofifreepc-tgc.cdn.hinet.net
+ofiii.com
+```
+
 MyVideo
 ```
 cdn.plyr.io
