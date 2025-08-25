@@ -469,6 +469,11 @@ tw-elevensports.com
 v-saas.com
 ```
 
+Friday Video
+```
+video.friday.tw
+```
+
 HamiVideo
 ```
 apl-hamivideo.cdn.hinet.net
