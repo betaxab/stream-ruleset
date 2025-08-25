@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,acorn.tv
 DOMAIN,boltacorn1-a.akamaihd.net
 DOMAIN-SUFFIX,rlje-static-assets.s3.amazonaws.com
 # DOMAIN-SUFFIX,players.brightcove.net
-# DOMAIN-SUFFIX,edge.api.brightcove.com
+# DOMAIN,edge.api.brightcove.com
 DOMAIN,d1gqkepxkcxgvm.cloudfront.net
 DOMAIN-SUFFIX,rlje.net
 
@@ -576,6 +576,7 @@ DOMAIN-SUFFIX,molotov.tv
 DOMAIN-SUFFIX,joyn.de
 
 DOMAIN-SUFFIX,sky.de
+# DOMAIN,edge.api.brightcove.com
 
 DOMAIN-SUFFIX,zdf.de
 
@@ -591,6 +592,11 @@ DOMAIN-SUFFIX,npo.nl
 DOMAIN-SUFFIX,npoplayer.nl
 
 DOMAIN-SUFFIX,videoland.com
+
+DOMAIN-SUFFIX,digiturk.com.tr
+DOMAIN-SUFFIX,digiturkplay.com
+DOMIAN,dt-int-gurme-hls.mncdn.com
+DOMAIN,dt-live-int.akamaized.net
 
 DOMAIN-SUFFIX,amediateka.ru
 
@@ -763,7 +769,7 @@ DOMAIN,7plus-sevennetwork.akamaized.net
 DOMAIN,npc-live-sevennetwork.akamaized.net
 DOMAIN-SUFFIX,cdn.7livecloud.io
 
-# DOMAIN-SUFFIX,edge.api.brightcove.com
+# DOMAIN,edge.api.brightcove.com
 DOMAIN-SUFFIX,freeviewplus.net.au
 DOMAIN-SUFFIX,mi9.com.au
 DOMAIN-SUFFIX,mi9cdn.com

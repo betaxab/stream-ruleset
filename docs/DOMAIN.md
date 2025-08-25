@@ -1033,6 +1033,16 @@ Videoland
 videoland.com
 ```
 
+### 土耳其区
+
+Digiturkplay
+```
+digiturk.com.tr
+digiturkplay.com
+dt-int-gurme-hls.mncdn.com
+dt-live-int.akamaized.net
+```
+
 ### 俄罗斯区
 
 Amediateka
