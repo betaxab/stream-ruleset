@@ -436,6 +436,11 @@ viu.tv
 
 ### 香港区
 
+HOY TV
+```
+hoy.tv
+```
+
 myTV SUPER
 ```
 mytvsuper.com
