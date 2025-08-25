@@ -533,18 +533,19 @@ myvideo.net.tw
 
 AbemaTV
 ```
-ds-linear-abematv.akamaized.net
-ds-vod-abematv.akamaized.net
-linear-abematv.akamaized.net
-vod-abematv.akamaized.net
 abema-tv.com
 abema.io
 abema.tv
 ameba.jp
 api-abematv.bucketeer.jp
+ds-linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
 go-mpulse.net
 hayabusa.io
 hayabusa.media
+linear-abematv.akamaized.net
+vod-abematv.akamaized.net
+vod-playout-abematv.akamaized.net
 ```
 
 AnimeFesta
