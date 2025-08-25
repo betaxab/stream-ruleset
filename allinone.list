@@ -515,6 +515,11 @@ DOMAIN-SUFFIX,rakuten.tv
 DOMAIN-SUFFIX,skyshowtime.com
 DOMAIN-SUFFIX,cssott.com
 
+DOMAIN,i-viaplay-com.akamaized.net
+DOMAIN-SUFFIX,mtg-api.com
+DOMAIN-SUFFIX,viaplay.com
+DOMAIN-SUFFIX,viaplay.pl
+
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
 

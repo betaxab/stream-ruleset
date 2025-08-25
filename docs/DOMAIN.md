@@ -890,6 +890,14 @@ skyshowtime.com
 cssott.com
 ```
 
+Viaplay
+```
+i-viaplay-com.akamaized.net
+mtg-api.com
+viaplay.com
+viaplay.pl
+```
+
 ### 英国区
 
 All4
