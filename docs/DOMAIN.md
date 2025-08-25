@@ -855,6 +855,20 @@ shahid.net
 
 ### 欧洲地区
 
+EuroSport
+```
+disco-api.com
+eurosport-dlvr-ott-vod.akamaized.net
+eurosport-dlvr-ott.akamaized.net
+eurosport.com
+eurosport.es
+eurosport.fr
+eurosport.io
+eurosport.ro
+eurosport.ru
+eurosportplayer.com
+```
+
 MEGOGO
 ```
 megogo.net

@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,us1-prod.api2.branch.io
 DOMAIN-SUFFIX,disco-api.com
+# DOMAIN-SUFFIX,uplynk.com
 
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
@@ -493,6 +494,17 @@ DOMAIN,geo-id-media-001-vidio-com.akamaized.net
 
 DOMAIN-SUFFIX,mbc.net
 DOMAIN-SUFFIX,shahid.net
+
+# DOMAIN-SUFFIX,disco-api.com
+DOMAIN,eurosport-dlvr-ott-vod.akamaized.net
+DOMAIN,eurosport-dlvr-ott.akamaized.net
+DOMAIN-SUFFIX,eurosport.com
+DOMAIN-SUFFIX,eurosport.es
+DOMAIN-SUFFIX,eurosport.fr
+DOMAIN-SUFFIX,eurosport.io
+DOMAIN-SUFFIX,eurosport.ro
+DOMAIN-SUFFIX,eurosport.ru
+DOMAIN-SUFFIX,eurosportplayer.com
 
 DOMAIN-SUFFIX,megogo.net
 
