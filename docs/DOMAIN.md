@@ -148,10 +148,20 @@ dssott.com
 cdn.registerdisney.go.com
 ```
 
+Google Search
+```
+google.com
+```
+
 HotStar
 ```
 hotstar.com
 hotstarext.com
+```
+
+Instagram
+```
+instagram.com
 ```
 
 iQIYI
@@ -161,6 +171,8 @@ gitv.tv
 iqiyi.com
 iqiyipic.com
 iq.com
+pps.tv
+ppsimg.com
 qy.net
 ```
 
@@ -478,8 +490,11 @@ kktv.me
 
 LiTV
 ```
-litvfreemobile-hichannel.cdn.hinet.net
 litv.tv
+litvfreemobile-hichannel.cdn.hinet.net
+ntd-tgc.cdn.hinet.net
+ntdfreepc-tgc.cdn.hinet.net
+ntdfreevcpc-tgc.cdn.hinet.net
 ```
 
 LINE TV
