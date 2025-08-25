@@ -724,6 +724,11 @@ Coupang Play
 coupangplay.com
 ```
 
+JTBC
+```
+jtbc.co.kr
+```
+
 KBS Domestic
 ```
 kbs.co.kr
@@ -735,6 +740,11 @@ naver.com
 navercorp.com
 pstatic.net
 smartmediarep.com
+```
+
+PandaTV
+```
+pandalive.co.kr
 ```
 
 Tving
