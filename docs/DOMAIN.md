@@ -7,6 +7,30 @@ ipinfo
 ipinfo.io
 ```
 
+### AI
+
+OpenAI ChatGPT
+```
+openai.com
+cdn.auth0.com
+chatgpt.com
+openaiapi-site.azureedge.net
+oaistatic.com
+oaiusercontent.com
+sora.com
+```
+
+Claude AI
+```
+anthropic.com
+claude.ai
+```
+
+Meta AI
+```
+meta.ai
+```
+
 ### 通用服务域名
 
 Akamai mPulse API
@@ -100,12 +124,6 @@ vod-hls-ntham-comm.live.akamaized.net
 d2z3p34itxwaj7.cloudfront.net
 bbci.co.uk
 bbc.co.uk
-```
-
-Claude AI
-```
-anthropic.com
-claude.ai
 ```
 
 DAZN
@@ -219,21 +237,11 @@ netflixdnstest8.com
 netflixdnstest9.com
 ```
 
-OpenAI ChatGPT
-```
-openai.com
-cdn.auth0.com
-chatgpt.com
-openaiapi-site.azureedge.net
-oaistatic.com
-oaiusercontent.com
-sora.com
-```
-
 Paramount+
 ```
 paramountplus.com
 pplusstatic.com
+theplatform.com
 ```
 
 Qobuz
@@ -657,8 +665,9 @@ radionikkei.jp
 smartstream.ne.jp
 ```
 
-Rakuten TV JP
+Rakuten TV JP & Rakuten Magazine
 ```
+magazine.rakuten.co.jp
 nba.rakuten.co.jp
 tv.rakuten.co.jp
 ```
@@ -673,9 +682,11 @@ d2lmsumy47c8as.cloudfront.net
 
 TVer
 ```
-tver.jp
 api.brightcove.com
 players.brightcove.net
+socdm.com
+streaks.jp
+tver.jp
 ```
 
 U-NEXT
@@ -1178,11 +1189,6 @@ KBS America
 kbs.co.kr
 ```
 
-Meta AI
-```
-meta.ai
-```
-
 MGM Plus
 ```
 epixhls.akamaized.net
@@ -1314,12 +1320,6 @@ cdn.7livecloud.io
 
 9Now
 ```
-9cdn.net
-9nation.com.au
-9news.com.au
-9now.com.au
-9now-livestreams.akamaized.net
-p-9now.akamaized.net
 edge.api.brightcove.com
 freeviewplus.net.au
 mi9.com.au
@@ -1329,14 +1329,22 @@ nineentertainment.com.au
 nineentertainmentco.com.au
 ninemediaroom.com.au
 ninemsn.com.au
+p-9now.akamaized.net
 static9.net.au
+yourtv.com.au
+9cdn.net
+9nation.com.au
+9news.com.au
+9now-livestreams.akamaized.net
+9now.com.au
 ```
 
 10 Play
 ```
-10play.com.au
 cbsi.video
+cbsivideo.com
 d25m2gzplgnf0.cloudfront.net
+10play.com.au
 ```
 
 ABC-iView
@@ -1350,11 +1358,6 @@ iview-vod.akamaized.net
 abc-cdn.net.au
 ```
 
-Binge
-```
-streamotion.com.au
-```
-
 DocPlay
 ```
 docplay.com
@@ -1362,6 +1365,12 @@ docplay.com
 ff1be285-madman-com-au.akamaized.net
 5a929471-madman-com-au.akamaized.net
 879ed873-madman-com-au.akamaized.net
+```
+
+Hubbl Binge & Kayo Sports
+```
+kayosports.com.au
+streamotion.com.au
 ```
 
 Optus
@@ -1412,7 +1421,9 @@ neontv.co.nz
 
 Sky GO NZ
 ```
+prod-skyonelive.akamaized.net
 sky.co.nz
+skysportnow.co.nz
 ```
 
 ThreeNow
