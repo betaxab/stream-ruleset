@@ -62,8 +62,14 @@ Verizon Media Platform
 uplynk.com
 ```
 
+Disco API
+```
+disco-api.com
+```
+
 Disney CDN
 ```
+bamgrid.com
 edgedatg.com
 edgedatg.go.com
 cdn.registerdisney.go.com

@@ -22,14 +22,23 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN,copilot.microsoft.com
 
 DOMAIN-SUFFIX,go-mpulse.net
+
 DOMAIN-SUFFIX,theplatform.com
+
 DOMAIN-SUFFIX,uplynk.com
+
+DOMAIN-SUFFIX,disco-api.com
+
+DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,edgedatg.go.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
+
 DOMAIN-SUFFIX,api.brightcove.com
 DOMAIN-SUFFIX,players.brightcove.net
+
 DOMAIN-SUFFIX,onetrust.com
+
 DOMAIN-SUFFIX,seachange.com
 
 DOMAIN-SUFFIX,streaks.jp
@@ -94,10 +103,10 @@ DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,us1-prod.api2.branch.io
-DOMAIN-SUFFIX,disco-api.com
+# DOMAIN-SUFFIX,disco-api.com
 # DOMAIN-SUFFIX,uplynk.com
 
-DOMAIN-SUFFIX,bamgrid.com
+# DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,disneystreaming.com
