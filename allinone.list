@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,seachange.com
 
+DOMAIN-SUFFIX,streaks.jp
+
 DOMAIN-SUFFIX,acorn.tv
 DOMAIN,boltacorn1-a.akamaihd.net
 DOMAIN-SUFFIX,rlje-static-assets.s3.amazonaws.com
@@ -390,7 +392,7 @@ DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,hjholdings.tv
 DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,streaks.jp
+# DOMAIN-SUFFIX,streaks.jp
 DOMAIN,yb.uncn.jp
 
 DOMAIN-SUFFIX,jcom.co.jp
@@ -415,7 +417,6 @@ DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,socdm.com
 
 DOMAIN-SUFFIX,colorfulpalette.org
 
@@ -434,7 +435,6 @@ DOMAIN,d2lmsumy47c8as.cloudfront.net
 
 # DOMAIN-SUFFIX,api.brightcove.com
 # DOMAIN,players.brightcove.net
-# DOMAIN-SUFFIX,socdm.com
 # DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,tver.jp
 

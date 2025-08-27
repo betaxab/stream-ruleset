@@ -85,6 +85,11 @@ Seachange
 seachange.com
 ```
 
+Streaks
+```
+streaks.jp
+```
+
 ### 全球流媒体
 
 Acorn TV
@@ -669,7 +674,6 @@ NicoNico
 dmc.nico
 nicovideo.jp
 nimg.jp
-socdm.com
 ```
 
 Project Sekai
@@ -703,7 +707,6 @@ TVer
 ```
 api.brightcove.com
 players.brightcove.net
-socdm.com
 streaks.jp
 tver.jp
 ```
