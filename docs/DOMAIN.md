@@ -67,14 +67,6 @@ Disco API
 disco-api.com
 ```
 
-Disney CDN
-```
-bamgrid.com
-edgedatg.com
-edgedatg.go.com
-cdn.registerdisney.go.com
-```
-
 Brightcove
 ```
 edge.api.brightcove.com
@@ -181,14 +173,78 @@ us1-prod.api2.branch.io
 uplynk.com
 ```
 
-Disney Plus
+Disney Plus & ESPN & Disney Now & Nationalgeographic & ABC
 ```
+abc.com
+abcnews.com
+abcnews.edgesuite.net
 bamgrid.com
+dilcdn.com
+disney-asia.com
 disney-plus.net
+disney.asia
+disney.be
+disney.bg
+disney.ca
+disney.ch
+disney.co.il
+disney.co.jp
+disney.co.kr
+disney.co.th
+disney.co.uk
+disney.co.za
+disney.com
+disney.com.au
+disney.com.br
+disney.com.hk
+disney.com.tw
+disney.cz
+disney.de
+disney.dk
+disney.es
+disney.fi
+disney.fr
+disney.gr
+disney.hu
+disney.id
+disney.in
+disney.io
+disney.it
+disney.my
+disney.nl
+disney.no
+disney.ph
+disney.pl
+disney.pt
+disney.ro
+disney.ru
+disney.se
+disney.sg
+disneynow.com
 disneyplus.com
 disneystreaming.com
+disneyturkiye.com.tr
+disneyworld-go.com
+dssedge.com
 dssott.com
-cdn.registerdisney.go.com
+edgedatg.com
+espn.co.uk
+espn.com
+espn.net
+espncdn.com
+espnqa.com
+go-disneyworldgo.com
+go.com
+natgeomaps.com
+nationalgeographic.com
+ngeo.com
+star-brasil.com
+star-latam.com
+starott.com
+starplus.com
+streamingdisney.net
+watchdisneyfe.com
+watchespn.com
 ```
 
 Google Search
@@ -260,13 +316,6 @@ netflixdnstest6.com
 netflixdnstest7.com
 netflixdnstest8.com
 netflixdnstest9.com
-```
-
-Paramount+
-```
-paramountplus.com
-pplusstatic.com
-theplatform.com
 ```
 
 Qobuz
@@ -1107,19 +1156,7 @@ disco-api.com
 onetrust.com
 ```
 
-Pluto TV
-```
-pluto.tv
-```
-
 ### 美国区
-
-ABC
-```
-abc.com
-edgeatg.com
-go.com
-```
 
 A&E TV
 ```
@@ -1132,15 +1169,42 @@ aetndigital.com
 theplatform.com
 ```
 
-CBS
+CBS && Paramount Plus && Pluto && Showtime
 ```
+amlg.io
 cbs.com
 cbsaavideo.com
+cbscorporation.com
 cbsi.com
-cbsivideo.com
 cbsi.live.ott.irdeto.com
+cbsi.video
+cbsiam.com
+cbsig.net
+cbsimg.net
+cbsinteractive.com
+cbsistatic.com
+cbsivideo.com
+cbsnews.com
 cbsplaylistserver.aws.syncbak.com
+cbspressexpress.com
+cbsradio.com
 cbsservice.aws.syncbak.com
+cbssports.com
+cbsstatic.com
+cbsstore.com
+cbssvideo.com
+cbstelevisioncity.com
+mtvnservices.com
+paramount.com
+paramountplus.com
+pluto.tv
+plutotv.net
+pplusstatic.com
+showtime.com
+viacbs.com
+viacom.com
+viacomcbs.com
+viacomcbspressexpress.com
 ```
 
 Crackle
@@ -1171,26 +1235,11 @@ atttvnow.com
 directv.com
 ```
 
-Disney Now
-```
-disneynow.com
-```
-
 encoreTVB
 ```
 bcbolt446c5271-a.akamaihd.net
 api.brightcove.com
 encoretvb.com
-```
-
-ESPN
-```
-bamgrid.com
-espn.co.uk
-espn.com
-espn.net
-espncdn.com
-watchespn.com
 ```
 
 F1TV
@@ -1272,11 +1321,6 @@ MTV
 ```
 mtv.com
 mtvnservices.com
-```
-
-National Geographic
-```
-nationalgeographic.com
 ```
 
 NBC

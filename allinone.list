@@ -29,11 +29,6 @@ DOMAIN-SUFFIX,uplynk.com
 
 DOMAIN-SUFFIX,disco-api.com
 
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,edgedatg.com
-DOMAIN-SUFFIX,edgedatg.go.com
-DOMAIN-SUFFIX,cdn.registerdisney.go.com
-
 DOMAIN-SUFFIX,api.brightcove.com
 DOMAIN-SUFFIX,players.brightcove.net
 
@@ -106,16 +101,83 @@ DOMAIN-SUFFIX,us1-prod.api2.branch.io
 # DOMAIN-SUFFIX,disco-api.com
 # DOMAIN-SUFFIX,uplynk.com
 
-# DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abcnews.com
+DOMAIN-SUFFIX,abcnews.edgesuite.net
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,dilcdn.com
+DOMAIN-SUFFIX,disney-asia.com
 DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,disney.asia
+DOMAIN-SUFFIX,disney.be
+DOMAIN-SUFFIX,disney.bg
+DOMAIN-SUFFIX,disney.ca
+DOMAIN-SUFFIX,disney.ch
+DOMAIN-SUFFIX,disney.co.il
+DOMAIN-SUFFIX,disney.co.jp
+DOMAIN-SUFFIX,disney.co.kr
+DOMAIN-SUFFIX,disney.co.th
+DOMAIN-SUFFIX,disney.co.uk
+DOMAIN-SUFFIX,disney.co.za
+DOMAIN-SUFFIX,disney.com
+DOMAIN-SUFFIX,disney.com.au
+DOMAIN-SUFFIX,disney.com.br
+DOMAIN-SUFFIX,disney.com.hk
+DOMAIN-SUFFIX,disney.com.tw
+DOMAIN-SUFFIX,disney.cz
+DOMAIN-SUFFIX,disney.de
+DOMAIN-SUFFIX,disney.dk
+DOMAIN-SUFFIX,disney.es
+DOMAIN-SUFFIX,disney.fi
+DOMAIN-SUFFIX,disney.fr
+DOMAIN-SUFFIX,disney.gr
+DOMAIN-SUFFIX,disney.hu
+DOMAIN-SUFFIX,disney.id
+DOMAIN-SUFFIX,disney.in
+DOMAIN-SUFFIX,disney.io
+DOMAIN-SUFFIX,disney.it
+DOMAIN-SUFFIX,disney.my
+DOMAIN-SUFFIX,disney.nl
+DOMAIN-SUFFIX,disney.no
+DOMAIN-SUFFIX,disney.ph
+DOMAIN-SUFFIX,disney.pl
+DOMAIN-SUFFIX,disney.pt
+DOMAIN-SUFFIX,disney.ro
+DOMAIN-SUFFIX,disney.ru
+DOMAIN-SUFFIX,disney.se
+DOMAIN-SUFFIX,disney.sg
+DOMAIN-SUFFIX,disneynow.com
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,disneystreaming.com
+DOMAIN-SUFFIX,disneyturkiye.com.tr
+DOMAIN-SUFFIX,disneyworld-go.com
+DOMAIN-SUFFIX,dssedge.com
 DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,espn.co.uk
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,go-disneyworldgo.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,natgeomaps.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,ngeo.com
+DOMAIN-SUFFIX,star-brasil.com
+DOMAIN-SUFFIX,star-latam.com
+DOMAIN-SUFFIX,starott.com
+DOMAIN-SUFFIX,starplus.com
+DOMAIN-SUFFIX,streamingdisney.net
+DOMAIN-SUFFIX,watchdisneyfe.com
+DOMAIN-SUFFIX,watchespn.com
 
 DOMAIN-SUFFIX,google.com
 
+DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstarext.com
+DOMAIN-SUFFIX,hsprepack.akamaized.net
 
 DOMAIN-SUFFIX,instagram.com
 
@@ -631,10 +693,6 @@ DOMAIN-SUFFIX,tlc.com
 # DOMAIN-SUFFIX,disco-api.com
 # DOMAIN-SUFFIX,onetrust.com
 
-DOMAIN-SUFFIX,pluto.tv
-
-DOMAIN-SUFFIX,abc.com
-
 DOMAIN-SUFFIX,aetv.com
 DOMAIN-SUFFIX,aetnd.com
 DOMAIN-SUFFIX,sp-prod.net
@@ -643,13 +701,40 @@ DOMAIN,servicesaetn-a.akamaihd.net
 DOMAIN-SUFFIX,aetndigital.com
 # DOMAIN-SUFFIX,theplatform.com
 
+DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
+DOMAIN-SUFFIX,cbsi.video
+DOMAIN-SUFFIX,cbsiam.com
+DOMAIN-SUFFIX,cbsig.net
+DOMAIN-SUFFIX,cbsimg.net
+DOMAIN-SUFFIX,cbsinteractive.com
+DOMAIN-SUFFIX,cbsistatic.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
+DOMAIN-SUFFIX,cbspressexpress.com
+DOMAIN-SUFFIX,cbsradio.com
 DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,cbsstatic.com
+DOMAIN-SUFFIX,cbsstore.com
+DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,cbstelevisioncity.com
+DOMAIN-SUFFIX,mtvnservices.com
+DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN-SUFFIX,showtime.com
+DOMAIN-SUFFIX,viacbs.com
+DOMAIN-SUFFIX,viacom.com
+DOMAIN-SUFFIX,viacomcbs.com
+DOMAIN-SUFFIX,viacomcbspressexpress.com
 
 DOMAIN,secure-web-us-az-crackle-com.akamaized.net
 DOMAIN-SUFFIX,crackle.com
@@ -667,17 +752,8 @@ DOMAIN-SUFFIX,www.cwseed.com
 DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,directv.com
 
-DOMAIN-SUFFIX,disneynow.com
-
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN-SUFFIX,encoretvb.com
-
-# DOMAIN,bamgrid.com
-DOMAIN-SUFFIX,espn.co.uk
-DOMAIN-SUFFIX,espn.com
-DOMAIN-SUFFIX,espn.net
-DOMAIN-SUFFIX,espncdn.com
-DOMAIN-SUFFIX,watchespn.com
 
 DOMAIN,f1prodlive.akamaized.net
 DOMAIN,d2n9h2wits23hf.cloudfront.net
@@ -726,8 +802,6 @@ DOMAIN-SUFFIX,mgmplus.com
 
 DOMAIN-SUFFIX,mtv.com
 DOMAIN-SUFFIX,mtvnservices.com
-
-DOMAIN-SUFFIX,nationalgeographic.com
 
 DOMAIN-SUFFIX,nbcuadops-vh.akamaihd.net
 DOMAIN-SUFFIX,nbc.co
@@ -810,7 +884,7 @@ DOMAIN-SUFFIX,9news.com.au
 DOMAIN-SUFFIX,9now-livestreams.akamaized.net
 DOMAIN-SUFFIX,9now.com.au
 
-DOMAIN-SUFFIX,cbsi.video
+# DOMAIN-SUFFIX,cbsi.video
 # DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,d25m2gzplgnf0.cloudfront.net
 DOMAIN-SUFFIX,10play.com.au
