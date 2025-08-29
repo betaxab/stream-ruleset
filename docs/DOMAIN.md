@@ -614,6 +614,7 @@ myvideo.net.tw
 
 4gTV
 ```
+ftv.com.tw
 4gtv.tv
 4gtvfreepc-cds.cdn.hinet.net
 4gtvfreepcvod-cds.cdn.hinet.net
