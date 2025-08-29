@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,espn.com
 DOMAIN-SUFFIX,espn.net
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,freeform.com
 DOMAIN-SUFFIX,go-disneyworldgo.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,hulu.com
@@ -779,8 +780,6 @@ DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,foxsports.com
-
-DOMAIN-SUFFIX,freeform.com
 
 DOMAIN-SUFFIX,fxnetworks.com
 

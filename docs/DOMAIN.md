@@ -173,7 +173,7 @@ us1-prod.api2.branch.io
 uplynk.com
 ```
 
-Disney Plus & ESPN & Disney Now & Nationalgeographic & ABC
+Disney Plus & ESPN & Disney Now & Nationalgeographic & ABC & Freeform
 ```
 abc.com
 abcnews.com
@@ -234,6 +234,7 @@ espn.com
 espn.net
 espncdn.com
 espnqa.com
+freeform.com
 go-disneyworldgo.com
 go.com
 hulu.com
@@ -1278,11 +1279,6 @@ foxsports.com
 go-mpulse.net
 theplatform.com
 uplynk.com
-```
-
-Freeform
-```
-freeform.com
 ```
 
 FX Networks
