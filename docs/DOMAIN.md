@@ -1234,7 +1234,7 @@ cwtv.com
 edge.cwtv-vod-ext.top.comcast.net
 edge.cwtv-egress.top.comcast.net
 thecwvideo.com
-www.cwseed.com
+cwseed.com
 ```
 
 Directv Stream

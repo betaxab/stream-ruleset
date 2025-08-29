@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,cwtv-amd-akamai.akamaized.net
+DOMAIN,cwtv-amd-akamai.akamaized.net
 DOMAIN-SUFFIX,cwtv.com
-DOMAIN-SUFFIX,edge.cwtv-vod-ext.top.comcast.net
-DOMAIN-SUFFIX,edge.cwtv-egress.top.comcast.net
+DOMAIN,edge.cwtv-vod-ext.top.comcast.net
+DOMAIN,edge.cwtv-egress.top.comcast.net
 DOMAIN-SUFFIX,thecwvideo.com
-DOMAIN-SUFFIX,www.cwseed.com
+DOMAIN-SUFFIX,cwseed.com
