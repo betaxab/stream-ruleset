@@ -1196,6 +1196,7 @@ cbssvideo.com
 cbstelevisioncity.com
 mtvnservices.com
 paramount.com
+paramount.tech
 paramountplus.com
 pluto.tv
 plutotv.net
@@ -1205,6 +1206,7 @@ viacbs.com
 viacom.com
 viacomcbs.com
 viacomcbspressexpress.com
+viacomtech.net
 ```
 
 Crackle
