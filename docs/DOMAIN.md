@@ -1169,7 +1169,7 @@ aetndigital.com
 theplatform.com
 ```
 
-CBS && Paramount Plus && Pluto && Showtime
+CBS && Paramount Plus && Pluto && Showtime && MTV
 ```
 amlg.io
 cbs.com
@@ -1194,6 +1194,7 @@ cbsstatic.com
 cbsstore.com
 cbssvideo.com
 cbstelevisioncity.com
+mtv.com
 mtvnservices.com
 paramount.com
 paramount.tech
@@ -1317,12 +1318,6 @@ epixvpp-vh.akamaihd.net
 epix.com
 onetrust.com
 mgmplus.com
-```
-
-MTV
-```
-mtv.com
-mtvnservices.com
 ```
 
 NBC

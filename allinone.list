@@ -720,6 +720,7 @@ DOMAIN-SUFFIX,cbsstatic.com
 DOMAIN-SUFFIX,cbsstore.com
 DOMAIN-SUFFIX,cbssvideo.com
 DOMAIN-SUFFIX,cbstelevisioncity.com
+DOMAIN-SUFFIX,mtv.com
 DOMAIN-SUFFIX,mtvnservices.com
 DOMAIN-SUFFIX,paramount.com
 DOMAIN-SUFFIX,paramount.tech
@@ -797,9 +798,6 @@ DOMAIN-SUFFIX,epixhls.akamaized.net
 DOMAIN-SUFFIX,epixvpp-vh.akamaihd.net
 DOMAIN-SUFFIX,epix.com
 DOMAIN-SUFFIX,mgmplus.com
-
-DOMAIN-SUFFIX,mtv.com
-DOMAIN-SUFFIX,mtvnservices.com
 
 DOMAIN-SUFFIX,nbcuadops-vh.akamaihd.net
 DOMAIN-SUFFIX,nbc.co
