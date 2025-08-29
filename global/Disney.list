@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abcnews.com
 DOMAIN-SUFFIX,abcnews.edgesuite.net
+DOMAIN,assetshuluimcom-a.akamaihd.net
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,disney-asia.com
@@ -58,6 +59,9 @@ DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,go-disneyworldgo.com
 DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,ngeo.com

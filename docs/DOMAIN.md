@@ -178,6 +178,7 @@ Disney Plus & ESPN & Disney Now & Nationalgeographic & ABC
 abc.com
 abcnews.com
 abcnews.edgesuite.net
+assetshuluimcom-a.akamaihd.net
 bamgrid.com
 dilcdn.com
 disney-asia.com
@@ -235,6 +236,9 @@ espncdn.com
 espnqa.com
 go-disneyworldgo.com
 go.com
+hulu.com
+huluim.com
+hulustream.com
 natgeomaps.com
 nationalgeographic.com
 ngeo.com
@@ -1296,14 +1300,6 @@ hbomaxcdn.com
 hbonow.com
 max.com
 maxgo.com
-```
-
-Hulu
-```
-assetshuluimcom-a.akamaihd.net
-hulu.com
-huluim.com
-hulustream.com
 ```
 
 KBS America
