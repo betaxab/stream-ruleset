@@ -1316,12 +1316,57 @@ onetrust.com
 mgmplus.com
 ```
 
-NBC
+NBC & Peacock & Bravo & USA Network & syfy
 ```
-nbcuadops-vh.akamaihd.net
+bravotv.com
+eluniverso.com
 nbc.co
 nbc.com
+nbcuadops-vh.akamaihd.net
 nbcuni.com
+nbcuott.com
+oxygen.com
+peacock.com
+peacocktv.com
+syfy.com
+tve-static-syfy.akamaized.net
+tve-static-telemundo.akamaized.net
+tve-static-universalkids.akamaized.net
+tve-static-usanetwork.akamaized.net
+tvebravoeast-x.akamaized.net
+tvebravoeast-y.akamaized.net
+tvecnbc-x.akamaized.net
+tvecnbc-y.akamaized.net
+tveeeast-x.akamaized.net
+tveeeast-y.akamaized.net
+tvemsnbc-x.akamaized.net
+tvenbcsn-x.akamaized.net
+tvenbcsn-y.akamaized.net
+tveoxygeneast-x.akamaized.net
+tveoxygeneast-x.akamaized.net
+tvesyfyeast-x.akamaized.net
+tvesyfyeast-y.akamaized.net
+tveuniversalkidshls.akamaized.net
+tveusaeast-x.akamaized.net
+tveusaeast-x.akamaized.net
+tvewnbc-x.akamaized.net
+tvewnbc-y.akamaized.net
+usanetwork.com
+```
+
+未明确限制国家或已停止服务的 NBC 域名
+```
+cnbc.com
+cnbcfm.com
+eonline.com
+msnbc.com
+nbcnews.com
+nbcsports.com
+nbcsports.h-cdn.com
+nbcudigitaladops.com
+s-nbcnews.com
+telemundo.com
+universalkids.com
 ```
 
 NFL Plus
@@ -1332,12 +1377,6 @@ nfl.com
 PBS
 ```
 pbs.org
-```
-
-Peacock
-```
-peacocktv.com
-peacock.com
 ```
 
 Philo
@@ -1364,33 +1403,6 @@ slinginternational.com
 Starz
 ```
 starz.com
-```
-
-USA Network & MSNBC & syfy
-```
-tve-static-syfy.akamaized.net
-tve-static-telemundo.akamaized.net
-tve-static-universalkids.akamaized.net
-tve-static-usanetwork.akamaized.net
-tvebravoeast-x.akamaized.net
-tvebravoeast-y.akamaized.net
-tvecnbc-x.akamaized.net
-tvecnbc-y.akamaized.net
-tveeeast-x.akamaized.net
-tveeeast-y.akamaized.net
-tvemsnbc-x.akamaized.net
-tvenbcsn-x.akamaized.net
-tvenbcsn-y.akamaized.net
-tveoxygeneast-x.akamaized.net
-tveoxygeneast-x.akamaized.net
-tvesyfyeast-x.akamaized.net
-tvesyfyeast-y.akamaized.net
-tveuniversalkidshls.akamaized.net
-tveusaeast-x.akamaized.net
-tveusaeast-x.akamaized.net
-tvewnbc-x.akamaized.net
-tvewnbc-y.akamaized.net
-usanetwork.com
 ```
 
 ### 加拿大区
